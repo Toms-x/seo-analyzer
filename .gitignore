@@ -4,3 +4,4 @@ venv/
 # Ignore Python's cache folder
 __pycache__/
 .DS_Store
+tomintech_assets/
